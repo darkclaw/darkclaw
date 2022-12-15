@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @darkclaw
-- 👀 I’m interested in Music
+- 👀 I’m interested in AWS
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on AWS
 - 📫 How to reach me darkclaw2k4@gmail.com
